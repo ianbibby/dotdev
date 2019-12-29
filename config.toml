@@ -1,0 +1,74 @@
+baseurl         = "/"
+theme           = "ian-casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+canonifyurls    = true
+
+[params]
+  title       = "ianbibby.dev"
+  subtitle    = "My Personal Space"
+  copyright   = "© 2020"
+
+  cover       = "uploads/cover.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "ianbibby"
+  fbName = "ianbibby"
+  githubName = "ianbibby"
+  linkedinName = "ianbibby"
+  mediumName = "ian.bibby"
+  igName = "ianbibby"
+
+  logo = ""
+  orgName = "Ian Bibby"
+  orgWebsite = "https://ianbibby.dev"
+  orgDescription = "My personal space"
+
+  showSupport = false
+
+  author = "Ian Bibby"
+  authorAvatar = "uploads/profile.png"
+  authorLocation = "Murrieta, CA"
+  authorWebsite = "https://ianbibby.dev"
+  authorDescription = ""
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = true
+
+[permalinks]
+  post = "/post/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Coding"
+  url = "/coding/"
+  weight = 100
+
+[[menu.main]]
+  name = "Life"
+  url = "/life/"
+  weight = 99
+
+[[menu.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 98
