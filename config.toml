@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://ianbibby.dev/"
 theme           = "ian-casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
