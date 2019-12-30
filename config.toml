@@ -56,19 +56,19 @@ canonifyurls    = true
 [[menu.main]]
   name = "Home"
   url = "/"
-  weight = 200
+  weight = 300
 
 [[menu.main]]
   name = "Coding"
   url = "/coding/"
-  weight = 100
+  weight = 200
 
 [[menu.main]]
   name = "Life"
   url = "/life/"
-  weight = 99
+  weight = 100
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
-  weight = 98
+  weight = 90
