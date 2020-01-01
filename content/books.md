@@ -10,7 +10,14 @@ type = "page"
 weight = 91
 +++
 
-Books I'm either currently reading, or recommend:
+These are books I've read and recommend.  My review and opinions on some of them can be found in blog posts.
 
-- this
-- that
+## Go
+
+![The Go Programming Language](https://m.media-amazon.com/images/I/41aSIiETPPL._AC_UY436_FMwebp_QL65_.jpg)
+![Mastering Go, 2nd Edition](https://m.media-amazon.com/images/I/71jkPWDXhpL._AC_UY436_FMwebp_QL65_.jpg)
+![Concurrency in Go](https://m.media-amazon.com/images/I/91boXuKgKSL._AC_UY436_FMwebp_QL65_.jpg)
+
+## Systems
+
+![Release It!, 2nd Edition](https://images-na.ssl-images-amazon.com/images/I/414CRjLjwgL._SX403_BO1,204,203,200_.jpg)

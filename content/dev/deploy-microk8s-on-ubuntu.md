@@ -4,9 +4,10 @@ date: 2019-12-29T15:24:45-08:00
 draft: false
 type: post
 categories:
-    - coding
+    - dev
 tags:
     - kubernetes
+    - howto
 ---
 
 How to launch the microk8s snap on Ubuntu.
