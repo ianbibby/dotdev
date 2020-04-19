@@ -1,5 +1,5 @@
 baseurl         = "https://ianbibby.dev/"
-title 		= "ianbibby.dev"
+title 		= "~ianbibby/"
 theme           = "hugo-notepadium"
 copyright   	= "© 2020"
 
@@ -11,7 +11,7 @@ codeFences 	= true
 noClasses 	= false
 
 [params]
-style 		= "auto"
+style 		= "dark"
 dateFormat 	= "Monday, January 2, 2006"
 slogan		= "Musings. Coding. Life."
 fullRss 	= false
