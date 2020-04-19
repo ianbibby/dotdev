@@ -15,7 +15,7 @@ style 		= "dark"
 dateFormat 	= "Monday, January 2, 2006"
 slogan		= "Musings. Coding. Life."
 fullRss 	= false
-logo		= "uploads/cover.jpg"
+logo		= "uploads/orbiter-gopher-only.png"
 
 [params.comments]
 enable 		= false
