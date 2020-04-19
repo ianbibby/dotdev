@@ -1,3 +1,6 @@
 [submodule "themes/ian-casper-two"]
 	path = themes/ian-casper-two
 	url = https://github.com/ianbibby/hugo-casper-two
+[submodule "themes/hugo-notepadium"]
+	path = themes/hugo-notepadium
+	url = https://github.com/cntrump/hugo-notepadium.git

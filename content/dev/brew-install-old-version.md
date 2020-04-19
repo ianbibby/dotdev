@@ -1,5 +1,6 @@
 ---
 title: "Brew Install Old Version"
+cover: "/uploads/cover.jpg"
 date: 2019-12-30T21:52:37-08:00
 draft: false
 type: post
